@@ -28,4 +28,4 @@ Coming soon.
 = Addition =
 Here is some [resources] for this project.
 
-Finally, if you find a bug, think of an improvement, or have some constructive criticism, feel free to [http://code.google.com/p/vnf/issues/entry raise an issue].
+If you find a bug, think of an improvement, or have some constructive criticism, feel free to [http://code.google.com/p/vnf/issues/entry raise an issue].
