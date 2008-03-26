@@ -18,7 +18,7 @@ None of this is exactly novel, but once the project is mature it may expand into
 
     * not yet started. 
 
-More information can be found in the project [Schedule project schedule]. 
+More information can be found in the [Schedule project schedule]. 
 
 
 = Installing and using the project =
