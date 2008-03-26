@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+#labels Phase-Requirements
+Here are some good resources if you are interested in Linux network device driver.
+
+  * Packet Factory  http://www.packetfactory.net/
+  * Netfilter  http://www.netfilter.org/
+  * Anatomy of the Linux networking stack  http://www.ibm.com/developerworks/linux/library/l-linux-networking-stack/
+  * Kernel Module Programming  http://www.linuxhq.com/lkprogram.html
+  * Kernel Hacking  http://kernelnewbies.org/KernelHacking
