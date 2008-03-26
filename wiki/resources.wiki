@@ -1,5 +1,6 @@
-#summary One-sentence summary of this page.
 #labels Phase-Requirements
+#resources for this project.
+
 Here are some good resources if you are interested in Linux network device driver.
 
   * Packet Factory  http://www.packetfactory.net/
