@@ -1,0 +1,29 @@
+#summary Specification for VNF
+#labels Featured
+
+= Introduction =
+
+This project, Virtual Network interFace (VNF), is an open-source (GPL v2) project written in c.VNF is a Linux network device module that lets you escape the matrix of technologies that make understanding Linux Kernel Module (LKM) and network device driver so difficult. With VNF, you can develop and debug network device driver applications, and study network device mechanism.
+
+The aim of the project is to power a personal site, and will include:
+
+    * a virtual network device module;
+    * a network device interface to user;
+    * handle skb from kernel;
+
+None of this is exactly novel, but once the project is mature it may expand into more interesting areas. 
+
+
+= Current status =
+
+    * not yet started. 
+
+More information can be found in the project [Schedule project schedule]. 
+
+
+= Installing and using the project =
+
+Coming soon. 
+
+= Addition =
+Finally, if you find a bug, think of an improvement, or have some constructive criticism, feel free to [http://code.google.com/p/vnf/issues/entry raise an issue].
