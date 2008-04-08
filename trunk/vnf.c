@@ -37,8 +37,7 @@ failed:
 
 static void __exit vnf_module_exit(void)
 {
-	if(g_dev)
-	{
+	if(g_dev) {
 		unregister_netdev(g_dev);
 		g_dev = NULL;
 		printk("unregister netdev\n");
@@ -90,10 +89,8 @@ void print_skb(struct sk_buff *skb)
 	int i;
 	
 	printk(KERN_DEBUG "skb->length = %d", skb->len);
-	for( i = 0; i < skb->len; i++ )
-	{
-		if( (i&0x0f) == 0)
-		{
+	for( i = 0; i < skb->len; i++ ) {
+		if( (i&0x0f) == 0) {
 			printk("\n[%04x]", i);
 		}
 		printk("%2.2x ", skb->data[i]);
